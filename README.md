@@ -10,7 +10,7 @@ This Password Generator Tool is a web application that helps you create strong a
 - Copy generated passwords to your clipboard.
 
 ## Usage
-1. Open the https://karannkx.github.io/passgen/ Website in your web browser.
+1. Open the https://aryannax.github.io/passwordjin/ Website in your web browser.
 2. Customize your password preferences by selecting options.
 3. Click the "Generate Password" button.
 4. Your generated password will be displayed.
